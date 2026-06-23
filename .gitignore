@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+*.log
+
+ai-therapist-agent-main/node_modules/
+ai-therapist-agent-main/.next/
+
+ai-therapist-agent-backend-main/node_modules/
+ai-therapist-agent-backend-main/.env
+ai-therapist-agent-backend-main/combined.log
+ai-therapist-agent-backend-main/error.log 
