@@ -64,5 +64,3 @@ npm run dev
 ### Disclaimer
 
 This project is intended for educational and demonstration purposes only. It is not a replacement for professional mental health care.
-
-This project is intended for educational and demonstration purposes only. It is not a replacement for professional mental health care.
